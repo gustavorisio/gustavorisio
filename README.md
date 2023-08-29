@@ -1,4 +1,5 @@
-### Olá, eu sou o Gustavo Di Risio, curso ensino superior de Engenharia de Software na Universídade Mogi Das Cruzes(UMC). Amo Tecnologia.
+### Olá, eu sou o Gustavo Di Risio, estudante, desenvolvedor e apaixonado por tecnologia.
+### Curso ensino superior de Engenharia de Software na Universídade Mogi Das Cruzes(UMC). Curso idiomas, Inglês na KNN.
 
 Aqui no meu repositório você encontrará meus projetos publicos como programador, desde o desenvolvimento de projetos com linguagens(JAVASCRIPT | PYTHON). Estou implementando meus conhecimento com Redes e Segurança, Banco de Dados, Docker, Virtual Machines. Buscando novas ideias para desenvolver projetos com eficiencia e dedicação.
 
