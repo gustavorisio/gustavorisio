@@ -1,7 +1,7 @@
 ### Olá, eu sou o Gustavo Di Risio, estudante, desenvolvedor e apaixonado por tecnologia.
 ##### Curso ensino superior de Engenharia de Software na Universídade Mogi Das Cruzes(UMC). Curso idiomas, Inglês na KNN.
 
-####### Aqui no meu repositório você encontrará meus projetos publicos como programador, desde o desenvolvimento de projetos com linguagens(JAVASCRIPT | PYTHON). Estou implementando meus conhecimento com Redes e Segurança, Banco de Dados, Docker, Virtual Machines. Buscando novas ideias para desenvolver projetos com eficiencia e dedicação.
+###### Aqui no meu repositório você encontrará meus projetos publicos como programador, desde o desenvolvimento de projetos com linguagens(JAVASCRIPT | PYTHON). Estou implementando meus conhecimento com Redes e Segurança, Banco de Dados, Docker, Virtual Machines. Buscando novas ideias para desenvolver projetos com eficiencia e dedicação.
 
 <div>
   <a href="https://www.linkedin.com/in/gustavorisio/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external" alt=""></a>
