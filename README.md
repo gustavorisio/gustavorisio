@@ -1,6 +1,11 @@
-### Olá, eu sou o Gustavo Di Risio, estou cursando ensino superior de Engenharia de Software na universídade UMC de Mogi das Cruzes. 
-Meu repositório você encontrará meus projetos publicos.
+### Olá, eu sou o Gustavo Di Risio, curso ensino superior de Engenharia de Software na Universídade Mogi Das Cruzes(UMC).
+
+Aqui no meu repositório você encontrará meus projetos publicos como programador FRONT-END. 
 
 [![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavorisio)
+
+<a href="https://www.linkedin.com/in/gustavorisio/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+
+
