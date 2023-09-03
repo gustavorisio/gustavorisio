@@ -2,11 +2,8 @@
 ##### Curso ensino superior de Engenharia de Software na Universídade Mogi Das Cruzes(UMC). Curso idiomas, Inglês na KNN.
 
 ##### Aqui no meu repositório você encontrará meus projetos publicos como programador, desde o desenvolvimento de projetos com linguagens(JAVASCRIPT | PYTHON). Estou implementando meus conhecimento com desenvolvimento web, também com Redes e Segurança, Banco de Dados, Docker, Virtual Machines. Desenvolvo projetos com eficiencia e dedicação.
-p {
-    text-align: center;
-    font-size: 18px;
-    font-family: Arial, Helvetica, sans-serif
-    }
+body {
+    background-color: rgb(255, 255, 255);
     <p>Gustavo Di Risio / Converse comigo!</p>
 <div>
   <a href="https://www.linkedin.com/in/gustavorisio/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external" alt=""></a>
