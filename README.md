@@ -1,6 +1,6 @@
 <h3>Olá! eu sou o Gustavo Di Risio! </h3>
-<h4>Aqui no meu repositório você encontrará meus projetos publicos como programador.</h4>
-<h4>Estou expandindo meu conhecimento com desenvolvimento web, redes e segurança, banco de dados e outras linguagens.</h4>
+<p>Aqui no meu repositório você encontrará meus projetos publicos como programador.</p>
+<p>Estou expandindo meu conhecimento com desenvolvimento web, redes e segurança, banco de dados e outras linguagens.</p>
 
 <div>
   <h3>Siga meu perfil:</h3>
