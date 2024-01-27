@@ -4,10 +4,9 @@
 ##### Aqui no meu repositório você encontrará meus projetos publicos como programador. Estou expandindo meu conhecimento com desenvolvimento web, redes e segurança, banco de dados, docker, virtual machines.
 <h3>Converse comigo!</h3>
 <div>
-  <a href="https://www.linkedin.com/in/gustavorisio/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="external" alt=""></a>
-  <a href="https://www.instagram.com/gustavo_risio" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="external" alt=""></a>
+  <a href="https://www.linkedin.com/in/gustavorisio/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
+  <a href="https://www.instagram.com/gustavo_risio" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 </div>
-##### 
 <h3>Ferramentas, linguagens e tecnologias que utilizo</h3>
  <div>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="">
