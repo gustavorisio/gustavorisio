@@ -3,7 +3,7 @@
 <h4>Estou expandindo meu conhecimento com desenvolvimento web, redes e segurança, banco de dados e outras linguagens.</h4>
 
 <div>
-  <h3>Siga meu perfil no linkedin</h3>
+  <h3>Siga meu perfil:</h3>
   <a href="https://www.linkedin.com/in/gustavorisio/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 </div>
 <h3>Ferramentas, linguagens e tecnologias que utilizo</h3>
