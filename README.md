@@ -3,10 +3,9 @@
 <hp>Curso ensino superior engenharia de software na universídade mogi das cruzes(UMC). Meu nivel de inglês intermédiario.</p>
 
 <h5>Aqui no meu repositório você encontrará meus projetos publicos como programador. Estou expandindo meu conhecimento com desenvolvimento web, redes e segurança, banco de dados, docker, virtual machines.</h5>
-<h3>Converse comigo!</h3>
+<h3>Siga meu perfil no linkedin</h3>
 <div>
   <a href="https://www.linkedin.com/in/gustavorisio/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
-  <a href="https://www.instagram.com/gustavo_risio" target="_blank" rel="external"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt=""></a>
 </div>
 <h3>Ferramentas, linguagens e tecnologias que utilizo</h3>
  <div>
