@@ -1,5 +1,4 @@
-### Olá, eu sou o Gustavo Di Risio, estudante, desenvolvedor e apaixonado por tecnologia.
-##### Curso ensino superior de Engenharia de Software na Universídade Mogi Das Cruzes(UMC). Curso idiomas, Inglês na KNN.
+##### Meu nome é Gustavo Di Risio, programo com VSCODE utlizando linguagens Python e Java Script, possuo conhecimento intermediario em HTML5 e CSS. Atualmente estou voltando minha prática e meus estudos para análise, ciência de dados, front-end e back-end. Procuro estar sempre atualizado às novas tecnologias para criar ferramentas mais modernas e avançadas. Curso ensino superior engenharia de software na universídade mogi das cruzes(UMC).
 
 ##### Aqui no meu repositório você encontrará meus projetos publicos como programador, desde o desenvolvimento de projetos com linguagens(JAVASCRIPT | PYTHON). Estou implementando meus conhecimento com desenvolvimento web, também com Redes e Segurança, Banco de Dados, Docker, Virtual Machines. Desenvolvo projetos com eficiencia e dedicação.
 <p>Converse comigo!</p>
