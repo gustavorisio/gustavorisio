@@ -1,9 +1,9 @@
 <h3>Olá! eu sou o Gustavo Di Risio! </h3>
+<h5>Aqui no meu repositório você encontrará meus projetos publicos como programador. Estou expandindo meu conhecimento com desenvolvimento web, redes e segurança, banco de dados, docker, virtual machines.</h5>
+<h3>Siga meu perfil no linkedin</h3>
 <hp>Atualmente estou voltando minha prática e meus estudos para análise, ciência de dados, front-end e back-end. Procuro estar sempre atualizado às novas tecnologias para criar ferramentas mais modernas e avançadas.</hp> 
 <hp>Curso ensino superior engenharia de software na universídade mogi das cruzes(UMC). Meu nivel de inglês intermédiario.</p>
 
-<h5>Aqui no meu repositório você encontrará meus projetos publicos como programador. Estou expandindo meu conhecimento com desenvolvimento web, redes e segurança, banco de dados, docker, virtual machines.</h5>
-<h3>Siga meu perfil no linkedin</h3>
 <div>
   <a href="https://www.linkedin.com/in/gustavorisio/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 </div>
