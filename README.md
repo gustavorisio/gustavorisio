@@ -1,4 +1,5 @@
 <h3>Olá! eu sou o Gustavo Di Risio! </h3>
+<p>Sou estudante de Engenharia de Software, na UMC!</p>
 <p>Aqui no meu repositório você encontrará meus projetos publicos como programador.</p>
 <p>Estou expandindo meu conhecimento com desenvolvimento web, redes e segurança, banco de dados e outras linguagens.</p>
 
@@ -6,8 +7,9 @@
   <h3>Siga meu perfil:</h3>
   <a href="https://www.linkedin.com/in/gustavorisio/" target="_blank" rel="external"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a>
 </div>
-<h3>Ferramentas, linguagens e tecnologias que utilizo</h3>
+
  <div>
+   <h3>Ferramentas, linguagens e tecnologias que utilizo</h3>
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="">
    <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="">
    
