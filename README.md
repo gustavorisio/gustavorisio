@@ -1,6 +1,6 @@
 <h3>Olá! eu sou o Gustavo Di Risio! </h3>
 <p>Sou estudante de Engenharia de Software, na UMC!</p>
-<p>Aqui no meu repositório você encontrará meus projetos publicos como programador.</p>
+<p>Aqui no meu repositório você encontrará meus repositórios publicos como programador.</p>
 <p>Estou expandindo meu conhecimento com desenvolvimento web, redes e segurança, banco de dados e outras linguagens.</p>
 
 <div>
