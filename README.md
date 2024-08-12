@@ -2,7 +2,6 @@
 <p>Sou estudante de Engenharia de Software, na UMC!</p>
 <p>Aqui você encontrará meus repositórios publicos como programador.</p>
 <p>Atualmente estou programando com java e javascript.</p>
-<p>Estou expandindo meu conhecimento em desenvolvimento web, banco de dados e outras linguagens.</p>
 
 <div>
   <h3>Siga meu perfil:</h3>
