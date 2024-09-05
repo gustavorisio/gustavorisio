@@ -1,6 +1,7 @@
 <h3>Olá! Eu sou o Gustavo Di Risio!</h3>
 <p>Sou programador e futuro Engenheiro de Software!</p>
-<p>Atualmente, estou programando com Java e TypeScript, focado em back-end, criação de APIs, integração com bancos de dados e desenvolvimento web.</p>
+<p>Atualmente, estou programando com Java e TypeScript</p>
+<p>Focado em back-end, criação de APIs, integração com bancos de dados e desenvolvimento web.</p>
 <p>Aqui você encontrará meus repositórios públicos e projetos mais recentes como programador.</p>
 
 
@@ -15,6 +16,7 @@
   <img src="https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white" alt="">
 
 <br>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="">
 </div>
