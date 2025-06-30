@@ -1,7 +1,7 @@
 <h3>Olá! Eu sou o Gustavo Di Risio!</h3>
 <p>Sou programador e futuro Engenheiro de Software!</p>
-<p>Atualmente, estou programando com Java e TypeScript</p>
-<p>Focado em back-end, criação de APIs, integração com bancos de dados e desenvolvimento web.</p>
+<p>Atualmente, estou programando com typeScript</p>
+<p>Focado em back-end, criação de APIs e integração com bancos de dados.</p>
 <p>Aqui você encontrará meus repositórios públicos e projetos mais recentes como programador.</p>
 
 
